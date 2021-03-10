@@ -5,7 +5,7 @@ Web app Test
 
 ![](images/1.JPG)
 
-
+<hr style="border:2px solid blue"> </hr>
 
 ![](images/2.JPG)
 
