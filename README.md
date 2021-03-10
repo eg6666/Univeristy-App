@@ -1,7 +1,7 @@
 # Univeristy-App
-University web app and blog using HTML CSS JS PHP VueJs Laravel Mysql
+<h2>University web app and blog using HTML CSS JS PHP VueJs Laravel Mysql</h2>
 
-Web app Test
+<h4>Web app Test</h4>
 
 ![](images/1.JPG)
 
@@ -47,7 +47,7 @@ Web app Test
 
 <hr style="border:2px solid blue"> </hr>
 
-Blog app test
+<h4>Blog app test</h4>
 
 <hr style="border:2px solid blue"> </hr>
 
